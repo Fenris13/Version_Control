@@ -1,0 +1,7 @@
+Merge Conflict Resolution: 
+    Once conflict discovered, I selected to keep both changes (git version and student ID) directly from VS Code
+
+HTML File Changes:
+    Index: Initially it just said "Welcome" I changed it to contain "Welcome to Version Control Practical"
+    About: Initally just said "About" and was changed to contain "About the Version Control Practical"
+    Contact: Initially just said "Contact" and was changed to contain "Contact me with any questions"
